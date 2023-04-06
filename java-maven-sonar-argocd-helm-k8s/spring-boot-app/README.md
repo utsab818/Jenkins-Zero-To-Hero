@@ -49,6 +49,12 @@ Hurray !! Access the application on `http://<ip-address>:8010`
 
 ## Next Steps
 
+### Install unzip
+FROM ROOT USER
+```
+apt install unzip -y
+```
+
 ### Configure a Sonar Server locally
 
 ```
